@@ -4,8 +4,7 @@ public class DistanceFormula
 	{
 		// test the formula a bit
 		double d1 = distance(-2,1 , 1,5);
-		System.out.println(" (-2,1) to (1,5) => " + d1 );
- 
+		System.out.println(" (-2,1) to
 		double d2 = distance(-2,-3 , -4,4);
 		System.out.println(" (-2,-3) to (-4,4) => " + d2 );
  
